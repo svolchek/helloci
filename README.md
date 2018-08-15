@@ -1,4 +1,4 @@
-helloci v5:07 PM 8/14/2018.0
+helloci v6.0 safronov edition
 =======
 
 Test projects for Git training
