@@ -1,4 +1,4 @@
-helloci v9.0
+helloci v9.1
 =======
 
 Test projects for Git training
