@@ -1,4 +1,4 @@
-helloci v6.0 safronov edition
+helloci v6.0
 =======
 
 Test projects for Git training
